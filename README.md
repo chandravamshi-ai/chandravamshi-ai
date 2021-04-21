@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @chandravamshi-ai
 - 👀 I’m interested in Data Science, ML and AI
 - 🌱 I’m currently learning Data Science (Masters in Data Science)
+-  I'm looking for the *Jobs* in field of DataScience
 - 💞️ I’m looking to collaborate on Datascience projects. Ex: Data analysing, building and optimizing ML and AI models
 - 📫 How to reach me dasyamchandravamshi@gmail.com
 
