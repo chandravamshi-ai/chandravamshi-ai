@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Science (Masters in Data Science)
 -  I'm looking for the *Jobs* in field of DataScience
 - 💞️ I’m looking to collaborate on Datascience projects. Ex: Data analysing, building and optimizing ML and AI models
-- 📫 How to reach me dasyamchandravamshi@gmail.com
+- 📫 How to reach me dasyamchandu@gmail.com
 
 <!---
 chandravamshi-ai/chandravamshi-ai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
