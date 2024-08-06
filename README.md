@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @chandravamshi-ai
 - 👀 I’m interested in Data Science, ML and AI
--  I'm looking for the *Jobs* in field of DataScience
+-  I will finish my masters by 23.08.2024
+-  I'm looking for the *Jobs* in field of DataScience and excited about working in this field
 - 💞️ I’m looking to collaborate on Datascience projects. Ex: Data analysing, building and optimizing ML and AI models
 - 📫 How to reach me dasyamchandravamshi@gmail.com
 - Some of Project links
