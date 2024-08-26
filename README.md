@@ -11,8 +11,10 @@
 ### Projects
 
 - **[Data Science Portfolio](https://github.com/chandravamshi-ai/Data-Science-Portfolio):** Showcase of my data science projects.
+<!--- 
 - **[Breast Cancer Diagnosis Predictor](https://breast-cancer-prediction-lr.streamlit.app/):** Logistic Regression model for breast cancer diagnosis.
 - **[Penguin Species Classification](https://random-forest-classifictaion.streamlit.app/):** Random Forest model for classifying penguin species.
+--->
 
 ---
 
