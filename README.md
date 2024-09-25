@@ -1,6 +1,6 @@
 ### About Me
 
-👋 Hi, I’m **Chandra Vamshi**, a Data Scientist with a Master’s degree in Data Science from a German university. I specialize in building and deploying scalable ML models using MLOps best practices. My current focus includes advancing my expertise in NLP, LLMs, and cloud-based AI solutions to solve real-world problems.
+👋 Hi, I’m **Chandra Vamshi**, a aspiring Data Scientist with a Master’s degree in Data Science from a German university. I specialize in building and deploying scalable ML models using MLOps best practices. My current focus includes advancing my expertise in NLP, LLMs, and cloud-based AI solutions to solve real-world problems.
 
 💼 Actively seeking collaboration on data science projects, particularly in data analysis, ML model development, and AI innovation.
 
