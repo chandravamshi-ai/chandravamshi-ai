@@ -2,7 +2,9 @@
 
 👋 Hi, I’m **Chandra Vamshi**, a aspiring Data Scientist with a Master’s degree in Data Science from a German university. I specialize in building and deploying scalable ML models using MLOps best practices. My current focus includes advancing my expertise in NLP, LLMs, and cloud-based AI solutions to solve real-world problems.
 
-💼 Actively seeking collaboration on data science projects, particularly in data analysis, ML model development, and AI innovation.
+💼 Actively seeking collaboration on data science projects, particularly in LLM agents, ML model development, data analysis and AI innovation.
+
+Apart from this I am Fullstack developer with decent experience in Germany.
 
 📧 Reach me at **[dasyamchandravamshi@gmail.com](mailto:dasyamchandravamshi@gmail.com)**.
 
