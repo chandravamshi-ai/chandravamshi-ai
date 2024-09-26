@@ -4,7 +4,7 @@
 
 💼 Actively seeking collaboration on data science projects, particularly in LLM agents, ML model development, data analysis and AI innovation.
 
-Apart from this I am Fullstack developer with decent experience in Germany.
+Apart from this, I am Fullstack developer with decent experience in Germany.
 
 📧 Reach me at **[dasyamchandravamshi@gmail.com](mailto:dasyamchandravamshi@gmail.com)**.
 
