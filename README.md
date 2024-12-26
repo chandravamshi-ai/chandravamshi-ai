@@ -43,7 +43,6 @@ Apart from this, I am Fullstack developer with decent experience in Germany.
 **Web Development:**
 - React, Next.js, Angular
 --->
----
 
 
 
