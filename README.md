@@ -1,3 +1,5 @@
+I like working with data and bringing value from it.
+<!---
 ### About Me
 
 👋 Hi, I’m **Chandra Vamshi**, a aspiring Data Scientist with a Master’s degree in Data Science from a German university. I specialize in building and deploying scalable ML models using MLOps best practices. My current focus includes advancing my expertise in NLP, LLMs, and cloud-based AI solutions to solve real-world problems.
@@ -16,7 +18,7 @@ Apart from this, I am Fullstack developer with decent experience in Germany.
 <!--- 
 - **[Breast Cancer Diagnosis Predictor](https://breast-cancer-prediction-lr.streamlit.app/):** Logistic Regression model for breast cancer diagnosis.
 - **[Penguin Species Classification](https://random-forest-classifictaion.streamlit.app/):** Random Forest model for classifying penguin species.
---->
+
 
 ---
 
@@ -40,7 +42,7 @@ Apart from this, I am Fullstack developer with decent experience in Germany.
 
 **Web Development:**
 - React, Next.js, Angular
-
+--->
 ---
 
 
